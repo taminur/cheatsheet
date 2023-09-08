@@ -1,5 +1,3 @@
-<!-- source: @Traversy Media -- https://youtu.be/HUBNt18RFbo?si=dmbzZBFtMd92rheH -->
-
 # Heading 1
 
 ## Heading 2
@@ -123,3 +121,10 @@ Q. Some things you can format?
 A. - Headings - Lists - Emphasis - Links - Blocks of code - Images - Block quotes - Horizontal rule
 
  -->
+
+---
+
+sources:
+
+- [Traversy Media](https://youtu.be/HUBNt18RFbo?si=dmbzZBFtMd92rheH "video tutorial")
+- [Markdown guide](https://www.markdownguide.org/basic-syntax/)
